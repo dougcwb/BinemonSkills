@@ -1,6 +1,6 @@
 {
     "name": "Binemon Skills",
-    "version": "0.1",
+    "version": "1.0.0",
     "manifest_version" : 2,
     "description": "Binemon Skills at Market frontpage",
     "background" : {
@@ -13,10 +13,8 @@
     "content_scripts": [
         {
             "matches": ["https://*.binemon.io/buy/*"],
-            "all_frames": true,
-            "js": ["content.js"],
-            "run_at": "document_end"
+            "js": ["content.js"]
         }
     ],
-    "permissions": ["tabs", "activeTab"]
+    "permissions": ["activeTab"]
   }
