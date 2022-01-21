@@ -7,7 +7,8 @@ It allows you to see the skills of each mon in the Marketplace pages (https://ap
 This way you don't have to enter in each mon's page to check what skills the mon have.
 
 # <img src="https://raw.githubusercontent.com/dougcwb/BinemonSkills/main/icon.png" width="40px"> HOW TO Install and use the extension:
-1. Download the zip file BinemonSkills.zip;
+0. Confirm that you are in this webpage: https://github.com/dougcwb/BinemonSkills
+1. Click in the green button "Code" and Download the zip file **"BinemonSkills-main.zip"**;
 2. Unzip the file to a good local folder (don't move this folder to anywhere after installed);
 3. Open Google Chrome and type "chrome://extensions/";
 4. Activate "Developer Mode" (in the upper right corner);
